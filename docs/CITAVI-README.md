@@ -1,6 +1,6 @@
-# Sammlung-Toole-Metadata in Citavi
+# MIMIR-Metadata in Citavi
 
-Export metadata from Sammlung-Toole and import in Citavi. 
+Export metadata from MIMIR and import in Citavi. 
 
 
 ## Export citavified data to CSV
@@ -26,7 +26,7 @@ Or via the streamlit interface:
 
 ## Import CSV to Citavi
 
-### First import of Sammlung-Toole-Metadata in Citavi:
+### First import of MIMIR-Metadata in Citavi:
 
 1. On the `File` / `Datei` menu in Citavi, click `Import` / `Importieren`.
 2. Select `File containing tabular data` / `Aus einer Datei mit tabellarischen Daten`, click `Next` / `Weiter`.
@@ -48,18 +48,18 @@ Or via the streamlit interface:
 - 8/9: Archive -> `Archive` / `Archiv`
 - 9/9: Signature -> `Signature` / `Signatur`
 11. Select `No` / `Nein`, click `Next` / `Weiter`.
-12. Save as `SammlungTooleMetadata`, click `Next` / `Weiter`.
+12. Save as `MIMIRMetadata`, click `Next` / `Weiter`.
 13. Click `Add to project` / `Projekt hinzufügen`
 
-### Further imports of Sammlung-Toole-Metadata:
+### Further imports of MIMIR-Metadata:
 
 1. On the `File` / `Datei` menu, click `Import` / `Importieren`.
 2. Select `File containing tabular data` / `Aus einer Datei mit tabellarischen Daten`, click `Next` / `Weiter`.
-3. Select `Custom [SammlungTooleMetadata]`, click `Next` / `Weiter`.
+3. Select `Custom [MIMIRMetadata]`, click `Next` / `Weiter`.
 4. Click `Browse...` / `Durchsuchen...`, select `metadata_citavified.csv`, click `Next` / `Weiter`. Etc.
 
 
-### In case of an error in the import definition 'SammlungTooleMetadata'
+### In case of an error in the import definition 'MIMIRMetadata'
 
 1. On the `File` / `Datei` menu, click `Import` / `Importieren`.
 2. Select `File containing tabular data` / `Aus einer Datei mit tabellarischen Daten`.

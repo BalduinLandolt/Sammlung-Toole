@@ -1,4 +1,4 @@
-# Sammlung-Toole
+# MIMIR
 
 A new and shiny look on data from [Handrit.is](https://handrit.is/).
 
@@ -85,7 +85,7 @@ To see the available targets, simply run `make help` or just `make`, which will 
 
 ### Documentation
 
-The documentation page can be found on the [repo Github pages](https://arbeitsgruppe-digitale-altnordistik.github.io/Sammlung-Toole/)
+The documentation page can be found on the [repo Github pages](https://arbeitsgruppe-digitale-altnordistik.github.io/mimir/)
 
 The docs are created using `mkdocs` with the `material` theme.  
 All documentation is created from the markdown files in the `docs/` directory. Table of content, configurations, etc. are defined in the `mkdocs.yml` file in the project root.
