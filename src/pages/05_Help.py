@@ -2,7 +2,7 @@ import markdown
 import streamlit as st
 
 how_to = """
-# Welcome to Ultima Toole!
+# Welcome to MÍMIRs well!
 
 ## Contents
 1. How to use
@@ -43,8 +43,8 @@ All source code is our own unless stated otherwise. All data and metadata is sou
 All data from handrit.is is subject to CC 4.0
 
 ## About
-Sammlung Toole is developed by Arbeitsgruppe Digitale Arbeitsmethoden in der Altnordistik at the University of Basel.
-Refer to https://github.com/arbeitsgruppe-digitale-altnordistik/Sammlung-Toole for the source code.
+MÍMIR is developed by Arbeitsgruppe Digitale Arbeitsmethoden in der Altnordistik at the University of Basel.
+Refer to https://github.com/arbeitsgruppe-digitale-altnordistik/mimir for the source code.
 All source code is licensed under the MIT License. Source code, data and metadata which is not our own may be subject to other
 license terms.
 

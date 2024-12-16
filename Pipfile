@@ -8,9 +8,10 @@ lxml = "*"
 numpy = "*"
 pandas = "*"
 plotly = "*"
+sqlalchemy = "<2"
 sqlmodel = "*"
 statsmodels = "*"
-streamlit = "*"
+streamlit = "1.17.0"
 streamlit-aggrid = "*"
 
 [dev-packages]
