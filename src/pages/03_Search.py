@@ -309,7 +309,7 @@ def __search_mss_by_text_step_save_results() -> None:
             step_func=next_step
         )
     if st.button("Back"):
-        state.steps.search_mss_by_persons = Step.MS_by_Pers.Search_person
+        state.steps.search_mss_by_txt = Step.MS_by_Txt.Search_Txt
         st.experimental_rerun()
 
 
