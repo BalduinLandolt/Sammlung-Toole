@@ -1,7 +1,7 @@
 # Usage Overview
 
 
-## What to find on Sammlung Toole?
+## What to find on MÍMIR?
 
 The application presents an optic on manuscript data from [Handrit.is](https://handrit.is/), which is openly available 
 on [GitHub](https://github.com/Handrit/Manuscripts). It allows for slightly different search queries, and for direct 
@@ -11,14 +11,14 @@ extracted automatically: Most notably so, the catalogue entries in multiple lang
 the most complete metadata possible.
 
 
-## Where to find Sammlung Toole?
+## Where to find MÍMIR?
 
 Currently, no public server is available. For access to the *super secret* internal server, please get in touch with us.
 
 Alternatively, you can run the tool locally on your computer, by following [these instructions](../advanced-usage.md).
 
 
-## How to use Sammlung Toole?
+## How to use MÍMIR?
 
 Once you have access to the tool (be that on a server or locally), simply open the URL in your browser.
 
